@@ -1,7 +1,5 @@
 # TrabalhoInstituicao
 
-![GitHub Logo](https://github.com/henriquecido/TrabalhoInstituicao/blob/main/Diagrama/READMEicon.png)
-
  ##  Sobre
 Trabalho da matéria Programação Orientada a Objetos II,  proposta do trabalho é de elaborar um sistema com base  no diagrama apresentado em sala de aula utilizando alguns conceitos como MVC,DAO, Persistência utilizando o Banco de Dados e criação de interface para receber as informações do usuário. 
      
